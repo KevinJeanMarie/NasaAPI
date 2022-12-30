@@ -1,6 +1,6 @@
 Installation du projet :
 
-git clone https://github.com/KevinJeanMarie/NasaAPI.git
+git clone https://github.com/KevinJeanMarie/NasaAPI.git 
 cd NasaAPI
 python manage.py runserver 
 
