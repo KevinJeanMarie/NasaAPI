@@ -29,4 +29,9 @@ password : rootrootroot
 <img width="960" alt="Capture d’écran 2022-12-30 211643" src="https://user-images.githubusercontent.com/90609887/210112498-5fa5946f-3a20-4e17-bab0-17ffffdd9065.png">
 
 Dans le fichier "apinasa.py" vous avez l'api de la NASA et une clé API généré :
+
+<img width="506" alt="Capture d’écran 2022-12-30 221759" src="https://user-images.githubusercontent.com/90609887/210113522-81cba6fc-98b2-4dad-81b7-f2785d836dc0.png">
+
+
+base de données PostgreSQL:
 <img width="760" alt="Capture d’écran 2022-12-30 211712" src="https://user-images.githubusercontent.com/90609887/210112543-48bbd393-6226-4012-a028-3cb63c285bf8.png">
