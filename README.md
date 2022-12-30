@@ -4,8 +4,11 @@ git clone https://github.com/KevinJeanMarie/NasaAPI.git
 
 cd NasaAPI
 
-python manage.py runserver 
+tapez la commande : "pip install -r requirements.txt" pour installer les packages qui se trouvent dans le fichier requirements.txt pour faire fonctionner le projet.
 
+puis tapez la commande "python manage.py runserver" pour lancer le projet.
+
+Voici ce que vous verrez (image ci-dessous)
 <img width="958" alt="Capture d’écran 2022-12-30 212734" src="https://user-images.githubusercontent.com/90609887/210112443-9dd744a6-a451-4638-b1a1-38e3811250b0.png">
 
 
